@@ -284,7 +284,9 @@
 		transition: opacity 0.2s ease-out;
 	}
 	.img{	
-		margin-left: 38%;
+		display: block;
+    margin-left: auto;
+    margin-right: auto
 	}
 
 	.img3{	
