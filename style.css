@@ -112,7 +112,7 @@
 		color: #b3b3b3;
 	}
 	.zagolovok{
-		color: red;
+		color: black;
 		background: #cca681;
 		width: 70%;
 		border: 5px solid #633;
@@ -121,7 +121,7 @@
 		text-align: center;
 		font-size: 200%;
 		border-radius: 15px;
-		margin-left: 40%;
+		margin-left: 70%;
 	}
 	.zagolovok2{
 		color: black;
@@ -133,7 +133,7 @@
 		text-align: center;
 		font-size: 200%;
 		border-radius: 15px;
-		margin-left: 40%;
+		margin-right: 70%;
 	}
 	.all{
 		margin-left: -50%;
