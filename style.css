@@ -292,11 +292,18 @@ margin-right: auto;
 	margin-left: 15%;
 	margin-right: auto;
 	width: 70%;
+	margin-bottom: 64px;
 }
 .img2{
 	margin-left: 15%;
 	margin-right: auto;
 	width: 70%;
+}
+.img2 img {
+	margin-left: 10%;
+}
+.img4 img {
+	margin-left: 9%;
 }
 body{
 	background-position: left bottom;
