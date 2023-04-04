@@ -308,7 +308,7 @@ margin-right: auto;
 body{
 	background-position: left bottom;
 	background-size: cover;
-	background-image: url(img/background.png);
+	background-color: #ff2c6d;
 	background-attachment: fixed;
 
 }
